@@ -1,0 +1,2 @@
+
+NOTE: Object files (*.o) files are stored in this "bin" directory.
